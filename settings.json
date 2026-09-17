@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "uzlifesteal.mcsh.io",
+    "ip": "stonemc.mcsh.io",
     "port": 25565,
     "version": "1.20.1",
     "try-creative": false
@@ -33,7 +33,7 @@
       "messages": [
         "I'm a regular player",
         "JOIN THE US NETWORK",
-        "YOO HOW ARE YOU EVERYONE I AM BOT"
+        "YOO HOW ARE YOU"
       ]
     },
     "chat-log": true,
